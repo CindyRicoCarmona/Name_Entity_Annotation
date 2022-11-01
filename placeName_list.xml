@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Cana de Galilea</name>
+   <name>Aragon</name>
+   <name>Aegypto</name>
+   <name>Aethiopia</name>
+   <name>Alcantara</name>
+   <name>Alcantara</name>
+   <name>Alemania</name>
+   <name>Algarues</name>
+   <name>Algezira</name>
+   <name>Andaluzia</name>
+   <name>Anduluzia</name>
+   <name>Aragon</name>
+   <name>Aragõ</name>
+   <name>Arenas</name>
+   <name>Auis</name>
+   <name>Aſtorga</name>
+   <name>Aſturias de Ouiedo</name>
+   <name>Babilonia</name>
+   <name>Babylonia</name>
+   <name>Barcelona</name>
+   <name>Bohemia</name>
+   <name>Burgos</name>
+   <name>Caſtilla</name>
+   <name>Caceres</name>
+   <name>Cafarnaum</name>
+   <name>Calatraua</name>
+   <name>Calatrauaen</name>
+   <name>Canaam</name>
+   <name>Caria</name>
+   <name>Cataluña</name>
+   <name>Caſtilla</name>
+   <name>Caſtro Xeriz</name>
+   <name>Cerdeña</name>
+   <name>China</name>
+   <name>Corcega</name>
+   <name>Cordoua</name>
+   <name>Cuenca</name>
+   <name>Egypto</name>
+   <name>Egypto</name>
+   <name>Eſpana</name>
+   <name>Eſpaña</name>
+   <name>Eſtremadura</name>
+   <name>Flandes</name>
+   <name>Florida</name>
+   <name>Francia</name>
+   <name>Francia</name>
+   <name>Galilea</name>
+   <name>Galizia</name>
+   <name>Gibraltar</name>
+   <name>Granada</name>
+   <name>Guatemala</name>
+   <name>Guipuzcoa</name>
+   <name>Hespaña</name>
+   <name>Heſpaña</name>
+   <name>Hieruſalem</name>
+   <name>Iaen</name>
+   <name>Ierico</name>
+   <name>Ierico</name>
+   <name>India Oriental</name>
+   <name>Indias</name>
+   <name>indias</name>
+   <name>Inglaterra</name>
+   <name>Italia</name>
+   <name>Iturea</name>
+   <name>Iudea</name>
+   <name>Iſrael</name>
+   <name>Iſrael</name>
+   <name>Lacedemonia</name>
+   <name>Leon</name>
+   <name>Leõ</name>
+   <name>Macedonia</name>
+   <name>Madrid</name>
+   <name>Mallorcas</name>
+   <name>Malta</name>
+   <name>Marruecos</name>
+   <name>Medina</name>
+   <name>Meſopotamia</name>
+   <name>Milan</name>
+   <name>Monteſa</name>
+   <name>Murcia</name>
+   <name>Mõteſa</name>
+   <name>Napoles</name>
+   <name>Nauarra</name>
+   <name>Nueua Heſpaña</name>
+   <name>Ouiedo</name>
+   <name>Oſſuna</name>
+   <name>Perſia</name>
+   <name>Plaſencia</name>
+   <name>Portugal</name>
+   <name>Pruſsia</name>
+   <name>Pãplona</name>
+   <name>Remon</name>
+   <!--<name>Roma</name> it also tags words like 'Romanos'. Thus it can be tagged with delimiters [\s\.]-->
+   <name>Roma\s|Roma,|Roma\.</name>
+   <name>Ronces valles</name>
+   <name>Salamanca</name>
+   <name>Salamãca</name>
+   <name>Segouia</name>
+   <name>Seuilla</name>
+   <name>Sicilia</name>
+   <name>Sicilias</name>
+   <name>Sodoma</name>
+   <name>Syria</name>
+   <name>Talaue ra</name>
+   <name>Talauera</name>
+   <name>TAlauera</name>
+   <name>talavera</name>
+   <name>TALAVERA</name>
+   <name>Teſſalia</name>
+   <name>Thebas</name>
+   <name>Thracia</name>
+   <name>Toledo</name>
+   <name>Toſtado</name>
+   <name>Traconitide</name>
+   <name>Traſmiera</name>
+   <name>Trento</name>
+   <name>Valencia</name>
+   <name>Valẽcia</name>
+   <name>Valladolid</name>
+   <name>Vizcaia</name>
+</root>
